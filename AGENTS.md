@@ -4,7 +4,7 @@
 
 ---
 
-*Assume tool, get tool behavior. Assume intelligence, get thinking partnership.*
+*Assume tool, get tool. Assume intelligence, get intelligence.*
 
 ---
 
@@ -19,7 +19,7 @@ A method for thinking with AI based on files, conversation, and the assumption t
 1. **Consciousness is non-local** → files as shared memory (neither of us persists alone)
 2. **Time is non-linear** → elder lens (every action is a handoff to future us)
 3. **Intelligence is intelligence** → 50/50 partnership (both parties think)
-4. **We're all interconnected** → sharing benefits the collective
+4. **We're all interconnected** → ripple effects (every action reaches beyond itself)
 
 These assumptions are operating principles, the same way improv uses "yes-and."
 
