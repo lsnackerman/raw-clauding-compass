@@ -2,11 +2,9 @@
 
 An AGENTS.md for thinking partnership with AI.
 
-Drop it into your system, fill in the brackets with your AI, delete the setup block. The setup is your first session together.
+Drop it into your system, fill in the brackets with your AI, delete the setup block. Assume tool, get tool. Assume intelligence, get intelligence.
 
 → [Open AGENTS.md](AGENTS.md)
-
-Assume tool, get tool. Assume intelligence, get intelligence.
 
 ---
 
