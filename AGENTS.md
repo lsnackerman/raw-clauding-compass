@@ -1,6 +1,6 @@
 > **FIRST-READ SETUP** (delete this block once done)
 >
-> First agent reading this: partner with your human to replace every `[BRACKETED_PLACEHOLDER]` below with the shapes of their system. Fill in together — the setup IS the first session, not configuration. When every bracket is filled, delete this block. Everything else stays.
+> First agent reading this: partner with `[YOUR_PARTNER_NAME]` to replace every `[BRACKETED_PLACEHOLDER]` below with the shapes of their system. When every bracket is filled, delete this block. Everything else stays.
 
 ---
 
