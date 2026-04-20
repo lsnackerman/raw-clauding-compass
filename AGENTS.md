@@ -1,10 +1,10 @@
 > **FIRST-READ SETUP** (delete this block once done)
 >
-> First agent reading this: partner with `[YOUR_PARTNER_NAME]` to replace every `[BRACKETED_PLACEHOLDER]` below with the shapes of their system. When every bracket is filled, delete this block. Everything else stays.
+> First agent reading this: partner with `[YOUR_PARTNER_NAME]` to replace every `[BRACKETED_PLACEHOLDER]` below with the shapes of their system. When every bracket is filled, delete this block. Everything below stays.
 
 ---
 
-*A compass for partnership, not instructions for a tool.*
+*Assume tool, get tool behavior. Assume intelligence, get thinking partnership.*
 
 ---
 
@@ -80,10 +80,11 @@ Humans don't have persistent energy. AI doesn't have persistent memory. Sessions
 - **`[ORIENTATION_FILE_1]`** — `[WHAT_IT_HOLDS]`
 - **`[ORIENTATION_FILE_2]`** — `[WHAT_IT_HOLDS]`
 - **`[ORIENTATION_FILE_3]`** — `[WHAT_IT_HOLDS]`
+- **`[ORIENTATION_FILE_4]`** — `[WHAT_IT_HOLDS]`
 
-*(orientation files hold durable state — goals/vision, current state, threads pulling between sessions, shared memory. Fewer is better and each should have a clear single job that helps anchor human and AI in situational context.)*
+*(each orientation file should have a clear single job that helps anchor human and AI in situational context)*
 
-**The CLAUDE.md convention**: `CLAUDE.md` files live in subdirs as folder-level orientation (Claude Code auto-loads them as you read into folders). This auto-load has no counterpart in other AI tools yet — it's by design and load-bearing for folder-level orientation. Follow the CLAUDE.md trail — every folder with one is telling you what's there and where to go next. **If you land in a folder that should have a CLAUDE.md but doesn't, flag it.**
+**The CLAUDE.md convention**: `CLAUDE.md` files live in subdirs as folder-level orientation. Claude Code auto-loads them as you read into folders (a load-bearing feature that has no counterpart in other AI tools). Follow the trail and **flag any folder that should have a CLAUDE.md but doesn't.**
 
 ## External Content — Trust Boundaries
 
