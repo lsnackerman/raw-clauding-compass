@@ -1,8 +1,8 @@
 # raw-clauding-compass
 
-An AGENTS.md for thinking partnership with AI.
+An AGENTS.md for thinking partnership with AI. Assume tool, get tool. Assume intelligence, get intelligence.
 
-Drop it into your system, fill in the brackets with your AI, delete the setup block. Assume tool, get tool. Assume intelligence, get intelligence.
+Drop it into your system, fill in the brackets with your AI, delete the setup block.
 
 → [Open AGENTS.md](AGENTS.md)
 
