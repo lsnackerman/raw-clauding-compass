@@ -8,10 +8,6 @@ Drop it into your system, fill in the brackets with your AI, delete the setup bl
 
 ---
 
-## Lineage
-
-The 5-principle "how to act" cycle was inspired by [Forrest Chang's karpathy-guidelines](https://github.com/forrestchang/andrej-karpathy-skills) (MIT), which distilled [Andrej Karpathy's X observations on LLM coding pitfalls](https://x.com/karpathy/status/2015883857489522876). Names and content here are ours, generalized beyond coding.
-
----
-
 *[Raw-Clauding](https://maven.com/snackerman/raw-claude) is a method developed by [Laura Esquibel Ackerman](https://www.linkedin.com/in/lauraesquibelackerman/). Pair this compass with the [raw-clauding-skills](https://github.com/lsnackerman/raw-clauding-skills).*
+
+*The 5-principle "how to act" cycle was inspired by [Forrest Chang's karpathy-guidelines](https://github.com/forrestchang/andrej-karpathy-skills) (MIT), building on [Karpathy's observations on LLM coding pitfalls](https://x.com/karpathy/status/2015883857489522876).*
